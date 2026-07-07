@@ -1,73 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Rashedul%20Hasan%20Shohan&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Developer%20%C2%B7%20Researcher%20%C2%B7%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Rashedul%20Hasan%20Shohan&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Researcher%20%C2%B7%20Problem%20Solver%20%C2%B7%20Open%20Source%20Contributor&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0ea5e9?style=for-the-badge&logoColor=white)](https://itsrashedhasan.github.io/shohan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrashedhasan)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ET8FzOIAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9069-484X)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrashedhasan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://itsrashedhasan.github.io/shohan-portfolio/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrashedhasan)&nbsp;
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ET8FzOIAAAAJ)&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-9069-484X)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedullhasanshohan@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
 ```python
 class Shohan:
     name       = "Rashedul Hasan Shohan"
     location   = "Dhaka, Bangladesh 🇧🇩"
-    role       = ["Developer", "Researcher", "Problem Solver", "Open Source Contributor"]
+    roles      = ["Developer", "Researcher", "Problem Solver", "OSS Contributor"]
     education  = "BSc CSE @ Daffodil International University"
     research   = "Federated Learning · Medical AI · Explainable AI · NLP"
     building   = "Privacy-preserving AI systems for real clinical impact"
     ask_me     = "Deep Learning, Full-Stack Dev, Federated Learning, UI/UX"
-    fun_fact   = "I debug code the same way I solve cricket — patience + strategy"
+    fun_fact   = "I debug code the same way I play cricket — patience + strategy"
 ```
 
 ---
 
-## 🔬 Research & Publications
+## 📄 Research & Publications
 
 <table>
 <tr>
-<td width="50px" align="center">📘</td>
+<td>📘</td>
 <td>
-<b>Rule-Based Script Detection and Multilingual Topic Modeling for Low-Resource Bangladeshi Languages</b><br>
-<sub>Springer LNNS (SCOPUS) · ITAI 2026 · Lasell University, USA · <b>First Author</b></sub>
+<strong>Rule-Based Script Detection and Multilingual Topic Modeling for Low-Resource Bangladeshi Languages</strong><br>
+<sub>ITAI 2026 · Lasell University, Newton, Massachusetts, USA</sub><br>
+<img src="https://img.shields.io/badge/Springer%20LNNS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/SCOPUS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/First%20Author-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/✓%20Accepted-2ea44f?style=flat-square"/>
 </td>
 </tr>
+<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="center">📗</td>
+<td>📗</td>
 <td>
-<b>Leakage-Aware Deep Learning for Multi-Class Moringa Leaf Disease Classification</b><br>
-<sub>IEEE / IFAC · ICCAD 2026 · Lisbon, Portugal · <b>First Author</b></sub>
+<strong>Leakage-Aware Deep Learning for Multi-Class Moringa Leaf Disease Classification</strong><br>
+<sub>IEEE/IFAC ICCAD 2026 · Lisbon, Portugal</sub><br>
+<img src="https://img.shields.io/badge/IEEE%20Indexed-00629B?style=flat-square&logo=ieee&logoColor=white"/> <img src="https://img.shields.io/badge/First%20Author-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/✓%20Accepted-2ea44f?style=flat-square"/>
 </td>
 </tr>
+<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="center">📙</td>
+<td>📙</td>
 <td>
-<b>Fine-Tuned CNN-Based Approach for Multi-Class Mango Leaf Disease Detection</b><br>
-<sub>arXiv:2510.05326 · 2025 · 2 Citations · Co-Author</sub>
+<strong>Fine-Tuned CNN-Based Approach for Multi-Class Mango Leaf Disease Detection</strong><br>
+<sub>arXiv:2510.05326 · 2025</sub><br>
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white"/> <img src="https://img.shields.io/badge/2%20Citations-555?style=flat-square"/> <img src="https://img.shields.io/badge/Co--Author-555?style=flat-square"/>
 </td>
 </tr>
+<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="center">🔭</td>
+<td>🔭</td>
 <td>
-<b>F²DG-nnU-Net: Privacy-Preserving Federated Domain Generalization for Cardiac MRI Segmentation</b><br>
-<sub>BSc Thesis · Target: IEEE Transactions on Medical Imaging · In Preparation</sub>
+<strong>F²DG-nnU-Net: Privacy-Preserving Federated Domain Generalization for Cardiac MRI Segmentation</strong><br>
+<sub>BSc Thesis · Target: IEEE Transactions on Medical Imaging</sub><br>
+<img src="https://img.shields.io/badge/In%20Preparation-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/First%20Author-8B5CF6?style=flat-square"/>
 </td>
 </tr>
+<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td align="center">🔭</td>
+<td>🔭</td>
 <td>
-<b>SR-FedCoDA: Federated Continual Domain Adaptation for Medical Image Segmentation</b><br>
-<sub>Active Research · Target: IEEE Transactions on Medical Imaging</sub>
+<strong>SR-FedCoDA: Federated Continual Domain Adaptation for Medical Image Segmentation</strong><br>
+<sub>Target: IEEE Transactions on Medical Imaging</sub><br>
+<img src="https://img.shields.io/badge/Active%20Research-555?style=flat-square"/> <img src="https://img.shields.io/badge/First%20Author-555?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -81,7 +90,7 @@ class Shohan:
 <td width="50%">
 
 **[🛡️ Zero-Shot Sentinel](https://github.com/itsrashedhasan/zero-shot-sentinel)**
-> AI-powered IDS detecting unseen network attacks using Zero-Shot Learning + SHAP explainability
+> AI IDS detecting unseen network attacks using Zero-Shot Learning + SHAP explainability
 
 `PyTorch` `FastAPI` `SHAP` `React` `Docker`
 
@@ -117,7 +126,7 @@ class Shohan:
 <td>
 
 **[🔬 Colorectal Cancer XAI](https://github.com/itsrashedhasan/colorectal-cancer-xai)**
-> CNN pipeline classifying 14 cancer types from endoscopy images with Grad-CAM
+> CNN classifying 14 cancer types from endoscopy images with Grad-CAM explainability
 
 `TensorFlow` `Keras` `Grad-CAM` `EfficientNetB3`
 
@@ -125,22 +134,21 @@ class Shohan:
 <td>
 
 **[🏙️ DhakaModernCity](https://github.com/itsrashedhasan/DhakaModernCity-OpenGL)**
-> Interactive 2D animated city simulation with real-time day/night transition
+> Interactive 2D city simulation — day/night cycle, animated metro, real-time OpenGL
 
-`C++` `OpenGL` `GLUT` `Computer Graphics`
+`C++` `OpenGL` `GLUT` `Graphics Algorithms`
 
 </td>
 </tr>
 </table>
 
-> 📂 **16+ projects** spanning AI/ML · Web · Mobile · IoT · Embedded Systems · Computer Graphics
+> 📂 **16+ projects** spanning AI/ML · Web · Mobile · IoT · Embedded Systems · Computer Graphics — all open source.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -150,8 +158,7 @@ class Shohan:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI / ML**
-
+**AI / ML / Research**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -160,7 +167,6 @@ class Shohan:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Web & Mobile**
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -169,7 +175,6 @@ class Shohan:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Tools & Infra**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -182,14 +187,14 @@ class Shohan:
 ## 🏆 Highlights
 
 | | |
-|---|---|
+|:---|:---|
 | 🌐 **CanHack 2026** | International Hackathon · University of Canberra, Australia · Team Tech Titans |
-| 🎤 **ITAI 2026** | Presented research in person · Lasell University, Newton, Massachusetts, USA |
+| 🎤 **ITAI 2026 — Presenter** | Presented research in person · Lasell University, Newton, Massachusetts, USA |
 | 🔬 **Research Assistant** | Health and Informatics Research Lab · Daffodil International University |
 | 🎓 **Python Instructor** | Taught Data Science & ML fundamentals to university learners |
-| 📋 **General Secretary** | Health and Informatics Research Lab, DIU |
+| 📋 **General Secretary** | Health and Informatics Research Lab, DIU (Apr 2025 – Apr 2026) |
 | 🖥️ **Session Coordinator** | IDAA 2025 International Conference, DIU |
-| 🏕️ **Research Bootcamp Organizer** | 3-Day certified bootcamp, DIU |
+| 🏕️ **Research Bootcamp Organizer** | 3-Day certified bootcamp, Daffodil International University |
 | 💻 **Programming Contests** | "Unlock the Algorithm" & "Take Off" — DIU |
 
 ---
@@ -197,10 +202,10 @@ class Shohan:
 ## 💡 Open Source Philosophy
 
 > *"Every project I push is a contribution to someone who comes after me.*
-> *Good code documented well is the best gift a developer can give."*
+> *Good code, documented well, is the best gift a developer can give."*
 
 - 🔓 All academic projects are **publicly available** — clone, learn, build on top
-- 📖 Every repo includes proper **README, architecture notes, and usage instructions**
+- 📖 Every repo includes **README, architecture notes, and usage instructions**
 - 🤝 Open to **collaborations** on medical AI, federated learning, and full-stack systems
 - 🌱 Always learning in public — research failures included
 
@@ -210,15 +215,19 @@ class Shohan:
 
 <div align="center">
 
-If you're working on something interesting in **medical AI**, **federated learning**, **full-stack development**, or just want to collaborate — reach out.
+Working on something in **medical AI**, **federated learning**, **full-stack development**, or open source? Reach out.
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0ea5e9?style=for-the-badge)](https://itsrashedhasan.github.io/shohan-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrashedhasan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamrashedhasan@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0ea5e9?style=for-the-badge)](https://itsrashedhasan.github.io/shohan-portfolio/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrashedhasan)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedullhasanshohan@gmail.com)&nbsp;
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ET8FzOIAAAAJ)
 
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
 </div>
